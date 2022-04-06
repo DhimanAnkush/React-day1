@@ -4,7 +4,7 @@ import { List } from './components/List';
 import { Join } from './components/JoinUs';
 import { Settings } from './components/Settings';
 import { Login } from './components/Login';
-import { Contact } from './components/Contact';
+import { Contact } from './components/ContactUs';
 import { Search } from './components/Search';
 import { Help } from './components/Help';
 import { Home } from './components/Home';
