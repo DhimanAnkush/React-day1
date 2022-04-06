@@ -1,0 +1,76 @@
+.head{
+    text-align: left;
+}
+
+.join{
+    background-color: rgb(64, 165, 242);
+    border-radius: 30px;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    color: whitesmoke;
+}
+.settings{
+    background-color: grey;
+    border-radius: 30px;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    color: whitesmoke;
+}
+.login{
+    background-color: orange;
+    border-radius: 30px;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    color: whitesmoke;
+}
+.contact{
+    background-color: rgb(106, 30, 30);
+    border-radius: 30px;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    color: whitesmoke;
+}
+.search{
+    background-color: green;
+    border-radius: 30px;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    color: whitesmoke;
+}
+.help{
+    background-color: rgb(131, 41, 183);
+    border-radius: 30px;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    color: whitesmoke;
+}
+.home{
+    background-color: rgb(183, 41, 150);
+    border-radius: 30px;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    color: whitesmoke;
+}
+.download{
+    background-color: rgb(128, 122, 0);
+    border-radius: 30px;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    color: whitesmoke;
+}
